@@ -1,0 +1,17 @@
+/home/wenboji/AMMesh/build/CMakeFiles/rebuild_cache.dir
+/home/wenboji/AMMesh/build/CMakeFiles/edit_cache.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW13.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW12.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_example.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW6.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW9.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW5.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW2.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW3.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW4.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW7.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW1.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW8.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW10.dir
+/home/wenboji/AMMesh/build/CMakeFiles/ACAM_mesh_HW11.dir

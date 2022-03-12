@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ACAM_mesh_HW6.dir/src/hw6/arap_deformation.cpp.o  -o ACAM_mesh_HW6  libACAM_mesh.a 

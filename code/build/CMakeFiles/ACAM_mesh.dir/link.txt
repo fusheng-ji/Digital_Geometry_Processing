@@ -1,0 +1,2 @@
+/usr/bin/ar qc libACAM_mesh.a  CMakeFiles/ACAM_mesh.dir/src/IOManger.cpp.o CMakeFiles/ACAM_mesh.dir/src/PolyMesh.cpp.o CMakeFiles/ACAM_mesh.dir/src/PolyMesh_Base.cpp.o CMakeFiles/ACAM_mesh.dir/src/PolyMeshIterators.cpp.o
+/usr/bin/ranlib libACAM_mesh.a

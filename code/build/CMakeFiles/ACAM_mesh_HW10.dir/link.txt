@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ACAM_mesh_HW10.dir/src/hw10/HW10-main.cpp.o  -o ACAM_mesh_HW10  libACAM_mesh.a 
